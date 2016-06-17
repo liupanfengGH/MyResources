@@ -1,0 +1,4 @@
+E:\Project2015\MyGUI\MyGUI\bin\Debug\MyGUI.dll
+E:\Project2015\MyGUI\MyGUI\bin\Debug\MyGUI.pdb
+E:\Project2015\MyGUI\MyGUI\obj\Debug\MyGUI.dll
+E:\Project2015\MyGUI\MyGUI\obj\Debug\MyGUI.pdb
