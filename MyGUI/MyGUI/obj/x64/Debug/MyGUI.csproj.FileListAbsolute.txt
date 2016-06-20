@@ -1,8 +1,0 @@
-E:\Project2015\MyGUI\MyGUI\bin\x64\Debug\MyGUI.dll
-E:\Project2015\MyGUI\MyGUI\bin\x64\Debug\MyGUI.pdb
-E:\Project2015\MyGUI\MyGUI\bin\x64\Debug\UnityEditor.dll
-E:\Project2015\MyGUI\MyGUI\bin\x64\Debug\UnityEditor.UI.dll
-E:\Project2015\MyGUI\MyGUI\bin\x64\Debug\UnityEngine.dll
-E:\Project2015\MyGUI\MyGUI\bin\x64\Debug\UnityEngine.UI.dll
-E:\Project2015\MyGUI\MyGUI\obj\x64\Debug\MyGUI.dll
-E:\Project2015\MyGUI\MyGUI\obj\x64\Debug\MyGUI.pdb

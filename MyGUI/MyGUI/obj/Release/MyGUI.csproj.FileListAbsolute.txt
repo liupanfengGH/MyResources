@@ -1,8 +1,0 @@
-E:\Project2015\MyGUI\MyGUI\bin\Release\MyGUI.dll
-E:\Project2015\MyGUI\MyGUI\bin\Release\MyGUI.pdb
-E:\Project2015\MyGUI\MyGUI\bin\Release\UnityEditor.dll
-E:\Project2015\MyGUI\MyGUI\bin\Release\UnityEditor.UI.dll
-E:\Project2015\MyGUI\MyGUI\bin\Release\UnityEngine.dll
-E:\Project2015\MyGUI\MyGUI\bin\Release\UnityEngine.UI.dll
-E:\Project2015\MyGUI\MyGUI\obj\Release\MyGUI.dll
-E:\Project2015\MyGUI\MyGUI\obj\Release\MyGUI.pdb
